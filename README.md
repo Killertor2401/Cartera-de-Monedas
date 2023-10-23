@@ -37,7 +37,6 @@ El programa utiliza el solucionador de pulp para resolver el modelo de optimizac
 
 El siguiente código muestra un ejemplo de uso del programa:
 ```
-Python
 import pulp 
 
 # Datos
